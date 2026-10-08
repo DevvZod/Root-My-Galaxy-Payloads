@@ -11,11 +11,11 @@
         "6.6.98"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S938NKSUACZF1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/DevvZod/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S938NKSUACZF1/cve-2026-43499-app.so",
         "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/custom-s25-32601/ksud-s25u-kdp",
+        "url": "https://raw.githubusercontent.com/DevvZod/Root-My-Galaxy-Payloads/main/custom-s25-32601/ksud-s25u-kdp",
         "size": 6648608
       }
     }
